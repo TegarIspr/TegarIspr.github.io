@@ -1,6 +1,6 @@
 {
-    "name": "tegarispr",
-    "short_name": "tegarispr",
+    "name": "webprofile",
+    "short_name": "webprofile",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
